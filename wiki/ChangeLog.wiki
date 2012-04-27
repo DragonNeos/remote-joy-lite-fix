@@ -1,0 +1,17 @@
+#summary Change Log
+
+English follows
+
+= 更新履歴 =
+
+== 2012-04-27 ==
+  * 設定画面のバッファーオーバーフローを修正した
+  * Makefile内のwindresコマンドをrcコマンドに置き換えた
+
+
+
+= Change Log =
+
+== 2012-04-27 ==
+  * Fixed overflow in the setting dialog.
+  * Replaced windres command to rc command in Makefile.
