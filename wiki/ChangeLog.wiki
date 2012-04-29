@@ -4,6 +4,13 @@ English follows
 
 = 更新履歴 =
 
+== 2012-04-29 ==
+  * 多重起動を防止した
+  * フルスクリーン表示中に設定画面を表示する場合にウィンドウモードに変更するようにした
+  * 画像フィルタを切り替えられるようにした
+  * ウィンドウを最小化した際にエラーダイアログが表示されるバグを修正した
+  * Spline36画像拡大フィルタを実装した
+
 == 2012-04-27 ==
   * 設定画面のバッファーオーバーフローを修正した
   * Makefile内のwindresコマンドをrcコマンドに置き換えた
@@ -11,6 +18,14 @@ English follows
 
 
 = Change Log =
+
+== 2012-04-29 ==
+  * Prevented multiple startup
+  * Changed to move to windowed mode when the setting dialog is shown durting fullscreen mode.
+した
+  * Added a setting to switch image filters.
+  * Fixed a bug that an error message is shown when the window is minimized.
+  * Added Spline36 image scaling filter.
 
 == 2012-04-27 ==
   * Fixed overflow in the setting dialog.
