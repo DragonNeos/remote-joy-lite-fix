@@ -22,7 +22,6 @@ English follows
 == 2012-04-29 ==
   * Prevented multiple startup
   * Changed to move to windowed mode when the setting dialog is shown durting fullscreen mode.
-した
   * Added a setting to switch image filters.
   * Fixed a bug that an error message is shown when the window is minimized.
   * Added Spline36 image scaling filter.
