@@ -4,6 +4,11 @@ English follows
 
 = 更新履歴 =
 
+== 2012-05-02 ==
+  * フルスクリーンモードでPSPを取り外した際に応答不能になるバグを修正した issue 10
+  * 画面更新時にクラッシュするバグを修正した
+  * マウスカーソルを移動後1秒後に隠すようにした issue 11
+
 == 2012-04-30 ==
   * Spline36モードで"waiting"の文字が出力されないバグを修正した
   * フルスクリーン表示時にPSPを接続しなおした場合にフリーズするバグを修正した
@@ -22,6 +27,11 @@ English follows
 
 
 = Change Log =
+
+== 2012-05-02 ==
+  * Fixed a bug that RemoteJoyLite hangs up if PSP is removed during fullscreen mode. issue 10
+  * Fixed a bug that RemoteJoyLite crashes during display update.
+  * Changed the mouse cursor to hide one second after the last move. issue 11
 
 == 2012-04-30 ==
   * Fixed a bug that spline36 mode does not show "waiting" correctly.
