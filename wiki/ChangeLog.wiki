@@ -4,6 +4,10 @@ English follows
 
 = 更新履歴 =
 
+== 2012-05-04 ==
+  * Lanczos4画像リサイズフィルタを実装した
+  * PSP表示をOFFにしたままRemoteJoyLiteを終了した場合にPSPの表示が元に戻らないバグを修正した issue 15
+
 == 2012-05-02 ==
   * フルスクリーンモードでPSPを取り外した際に応答不能になるバグを修正した issue 10
   * 画面更新時にクラッシュするバグを修正した
@@ -27,6 +31,10 @@ English follows
 
 
 = Change Log =
+
+== 2012-05-04 ==
+  * Implemented Lanczos4 resize filter.
+  * Fixed the bug that PSP does not show anything after RemoteJoyLite exits if PSP display setting is off. issue 15
 
 == 2012-05-02 ==
   * Fixed a bug that RemoteJoyLite hangs up if PSP is removed during fullscreen mode. issue 10
