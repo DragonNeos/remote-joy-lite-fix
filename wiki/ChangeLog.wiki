@@ -4,6 +4,10 @@ English follows
 
 = 更新履歴 =
 
+== 2012-05-12 ==
+  * 設定ダイアログのフォントを変更した issue 17
+  * セカンダリモニタでフルスクリーン表示ができるようにした issue 18
+
 == 2012-05-04 ==
   * Lanczos4画像リサイズフィルタを実装した
   * PSP表示をOFFにしたままRemoteJoyLiteを終了した場合にPSPの表示が元に戻らないバグを修正した issue 15
@@ -31,6 +35,10 @@ English follows
 
 
 = Change Log =
+
+== 2012-05-12 ==
+  * Fixed the font int the setting dialog. issue 17
+  * Changed to be available the fullscreen mode in the secondary monitor. issue 18
 
 == 2012-05-04 ==
   * Implemented Lanczos4 resize filter.
