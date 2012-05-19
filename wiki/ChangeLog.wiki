@@ -4,6 +4,9 @@ English follows
 
 = 更新履歴 =
 
+== 2012-05-19 ==
+  * フルスクリーン表示にUSBデバイスがリセットされた際、一瞬デスクトップが表示されるのを抑制した
+
 == 2012-05-12 ==
   * 設定ダイアログのフォントを変更した issue 17
   * セカンダリモニタでフルスクリーン表示ができるようにした issue 18
@@ -35,6 +38,9 @@ English follows
 
 
 = Change Log =
+
+== 2012-05-19 ==
+  * Suppressed the desktop is shown during USB reset on the fullscreen mode.
 
 == 2012-05-12 ==
   * Fixed the font int the setting dialog. issue 17
